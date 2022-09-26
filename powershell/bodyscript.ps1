@@ -1,0 +1,2 @@
+﻿ Send-MailMessage -To "reedws@ucmail.uc.edu" -From "mason2mrrm@gmail.com" -Subject "IT3038C Windows SysInfo" -Body "This machines IP is 192.168.33.167. User is Administrator Hostname is mason2mr-win.PowerShell Version 7. Today's Date is Sunday, September 18, 2022" -SmtpServer smtp.gmail.com -port 587 -UseSSL -Credential (Get-Credential)
+This machines IP is 192.168.33.167. User is Administrator Hostname is mason2mr-win.PowerShell Version 7. Today's Date is Sunday, September 18, 2022
