@@ -1,3 +1,5 @@
+#Take a number input and calulate how many prime numbers come between it and 0.
+
 lower_value = int(input ("Please, Enter the Lowest Range Value: "))  
 upper_value = int(input ("Please, Enter the Upper Range Value: "))  
   
