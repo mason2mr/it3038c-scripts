@@ -18,4 +18,4 @@ Get-AppxPackage -AllUsers
 
 
 Get-AppxPackage -AllUsers | Select Name, PackageFullName
-###Shows List Of Installed Apps Along With Full Package Name, can use this command to expand search results
+### Shows List Of Installed Apps Along With Full Package Name, can use this command to expand search results
