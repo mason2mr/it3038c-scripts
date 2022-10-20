@@ -1,1 +1,1 @@
-
+ Get-AppxPackage -Name *edge* 
