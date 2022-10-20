@@ -8,6 +8,11 @@
 ## Once Installed you be able to Run My Script Inside Of Powershell My Script is here:
 
 Get-AppxPackage -Name *edge* 
+
+
 Get-AppxPackage -AllUsers
+
+
+
 Get-AppxPackage -AllUsers | Select Name, PackageFullName
 
