@@ -8,11 +8,14 @@
 ## Once Installed you be able to Run My Script Inside Of Powershell My Script is here:
 
 Get-AppxPackage -Name *edge* 
+### Shows a long list of  Detailed Information Of The Installed Apps Within Your Desktop. Name, publisher, version and etc..
+### This will make powershell generate a list of applications that contains the part of any name you specify to search, This can be used to filter out results it only finds what you tell it looking for
 
 
 Get-AppxPackage -AllUsers
+### This will get and show all application packages for every user account within your whole PC
 
 
 
 Get-AppxPackage -AllUsers | Select Name, PackageFullName
-
+###Shows List Of Installed Apps Along With Full Package Name, can use this command to expand search results
