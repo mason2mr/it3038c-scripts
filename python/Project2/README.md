@@ -1,5 +1,5 @@
 
-# Goal: Running Project 1 python script by clicking an HTML Button 
+# Goal: Running Project 1 python script by clicking an HTML Button On A Web Page
 # Consist Of Python Automation
 
 ### The Output of my script show you the current date, time and time zone by  just clicking a labeled button within my html webpage
