@@ -1,4 +1,4 @@
-from flask import Flask,render_template,request
+# Source For Code used: https://www.fullstackpython.com/flask-templating-render-template-examples.htmlfrom flask import Flask,render_template,request
 import time
 today = time.strftime("%Y-%m-%d") #Coverts the time of today to the actual year, month, and day   
 current_time = time.strftime("%d %B %Y %H:%M:%S %Z %I:%M %p") #Converts current time to their representation
