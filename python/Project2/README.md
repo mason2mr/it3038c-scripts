@@ -11,6 +11,6 @@
 ### TO Run My Script correctly: Open up app.py and run it, then it should take you to my html webbage where it ask you to type your name it then will spesond with a greeting message 
 
 ### There will be option where you can click a html button to display the current Date and time info at any given time.
-### All code created within Index.html was created display my Script 
-### All code created within App.py was built to automate my script
+### All code created within index.html was created display my Script 
+### All code created within app.py was built to automate my script
 
